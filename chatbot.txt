@@ -1,0 +1,15 @@
+question	answer
+When is the NFT drop	dates are listed on the website. Jan 12th for private sale and 14th for public sale.
+What is the NFT price	The team is working on figuring out the math.
+Which chain will you be on	Ethereum
+What type of contract	ERC-721
+HI	Hi How can I help you
+Hello	Hello How can I help you
+Good morning	very good morning how can I help you
+bye 	"bye, thank you, see you again"
+Nft drop	dates are listed on the website. Jan 12th for private sale and 14th for public sale.
+Nft price	The team is working on figuring out the math.
+Where is the minting page?	Same website will have a minting link available
+minting page	Same website will have a minting link available
+ I do not have a wallet. Can I send you money?	"No, you must have a wallet. If you need help, check out EZwallet.me"
+I don't have wallet	"No, you must have a wallet. If you need help, check out EZwallet.me"
