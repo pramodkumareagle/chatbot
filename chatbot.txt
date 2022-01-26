@@ -1,5 +1,0 @@
-question	answer
-When is the NFT drop	dates are listed on the website. Jan 12th for private sale and 14th for public sale.
-What is the NFT price	The team is working on figuring out the math.
-Which chain will you be on	Ethereum
-What type of contract	ERC-721
